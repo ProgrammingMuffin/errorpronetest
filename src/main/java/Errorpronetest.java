@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Errorpronetest {
-
+    // simple comment
     public static void main(String[] args) {
         System.out.println("Testing error prone..");
         Set<Short> s = new HashSet<Short>();
